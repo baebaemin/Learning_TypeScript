@@ -2,9 +2,9 @@
 
 ---
 
-**‘타입’**은 JS에서 다루는 값의 형태에 대한 설명이다.
+‘타입’은 JS에서 다루는 값의 형태에 대한 설명이다.
 
-**‘형태’**란, 값에 존재하는 속성과 메서드, 내장되어있는 typeof 연산자가 설명하는 것을 의미한다.
+‘형태’란, 값에 존재하는 속성과 메서드, 내장되어있는 typeof 연산자가 설명하는 것을 의미한다.
 
 ---
 
@@ -17,8 +17,6 @@
 - number
 - bigdint
 - symbol
-
-![IMG_33BA19C62F74-1.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b01f8ed-c1e4-425a-91bc-2dc288fd73a8/IMG_33BA19C62F74-1.jpeg)
 
 ---
 
